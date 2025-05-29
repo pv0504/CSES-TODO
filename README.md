@@ -5,3 +5,4 @@
 - [ ] [Josephus Problem I](https://cses.fi/problemset/task/2162/)
 - [ ] [Josephus Problem II](https://cses.fi/problemset/task/2163/) very important.
 - [ ] [Nested Ranges Count](https://cses.fi/problemset/task/2169)
+- [ ] [Room Allocation](https://cses.fi/problemset/result/13097949/)  dont what to sort, either by start time or depature time.
