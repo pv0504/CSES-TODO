@@ -1,6 +1,6 @@
 # ✅ CSES TODO List
 
-## 🔄 Ongoing / To Solve
+## 🔄 Sorting and Searching
 
 - [ ] [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)
 - [ ] [Traffic Lights](https://cses.fi/problemset/task/1163)
