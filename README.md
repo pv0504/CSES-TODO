@@ -14,4 +14,5 @@
   Example:> ``` > [1,3] -> id = 1 > [1,3] -> id = 2 > [4,6] -> id = 1 > [1,7] -> id = 2 (❌ WRONG) > ```
 
 - [ ] [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
-💡 **Hint:** When there are two parameters, fix one and analyze the nature of the other. 
+💡 **Hint:** When there are two parameters, fix one and analyze the nature of the other.
+- [ ] [Sum of Three values](https://cses.fi/problemset/task/1641/)
