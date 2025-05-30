@@ -16,3 +16,7 @@
 - [ ] [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
 💡 **Hint:** When there are two parameters, fix one and analyze the nature of the other.
 - [ ] [Sum of Three values](https://cses.fi/problemset/task/1641/)
+
+## 🔄 String Algorithms 
+- [ ] [Word Combinations](https://cses.fi/problemset/task/1731)
+      Trie Data structure is used, to check whether the segmented words exists or given as a dictionary.
