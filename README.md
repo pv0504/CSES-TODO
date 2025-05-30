@@ -6,3 +6,8 @@
 - [ ] [Josephus Problem II](https://cses.fi/problemset/task/2163/) very important.
 - [ ] [Nested Ranges Count](https://cses.fi/problemset/task/2169)
 - [ ] [Room Allocation](https://cses.fi/problemset/result/13097949/)  dont what to sort, either by start time or depature time.
+      ``` [1,3] -> id = 1
+        [1,3] -> id = 2
+        [4,6] -> id = 1
+        [1,7] -> id = 2 (WRONG) ```
+
