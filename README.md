@@ -11,7 +11,7 @@
 - [ ] [Room Allocation](https://cses.fi/problemset/task/1164)
 
   ❓ **Issue:** Unsure whether to sort by start time or departure time.  
-  Example:> Example: > ``` > [1,3] -> id = 1 > [1,3] -> id = 2 > [4,6] -> id = 1 > [1,7] -> id = 2 (❌ WRONG) > ```
+  Example:> ``` > [1,3] -> id = 1 > [1,3] -> id = 2 > [4,6] -> id = 1 > [1,7] -> id = 2 (❌ WRONG) > ```
 
 - [ ] [Tasks and Deadlines](https://cses.fi/problemset/task/1630)
 💡 **Hint:** When there are two parameters, fix one and analyze the nature of the other. 
