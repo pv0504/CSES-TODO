@@ -20,6 +20,6 @@
 ## 🔄 String Algorithms 
 - [ ] [Word Combinations](https://cses.fi/problemset/task/1731)
       Trie Data structure is used, to check whether the segmented words exists or given as a dictionary.
-- [ ] **[Z_ALGORITHM KMP_ALGORITHM BOOTH ALGORITHM TRIE-DATA STRUCTURE]**
+- [ ] **[Z_ALGORITHM : KMP_ALGORITHM : BOOTH ALGORITHM : TRIE-DATA STRUCTURE : Manacher’s Algorithm]**
 - [ ] [Finding Periods](https://cses.fi/problemset/task/1733) can be done both through z function and kmp function, tell which is better </br>
       **Follow up:** Find the smallest period of each substring from [0,i] in O(n)
