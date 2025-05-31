@@ -21,4 +21,4 @@
 - [ ] [Word Combinations](https://cses.fi/problemset/task/1731)
       Trie Data structure is used, to check whether the segmented words exists or given as a dictionary.
 - [ ] [Z_ALGORITHM AND KMP_ALGORITHM]
-- [ ] [Finding Periods](https://cses.fi/problemset/task/1733)
+- [ ] [Finding Periods](https://cses.fi/problemset/task/1733) can be done both through z function and kmp function, tell which is better
