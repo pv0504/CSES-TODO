@@ -22,4 +22,5 @@
       Trie Data structure is used, to check whether the segmented words exists or given as a dictionary.
 - [ ] **[Z_ALGORITHM : KMP_ALGORITHM : BOOTH ALGORITHM : TRIE-DATA STRUCTURE : Manacher’s Algorithm]**
 - [ ] [Finding Periods](https://cses.fi/problemset/task/1733) can be done both through z function and kmp function, tell which is better </br>
-      **Follow up:** Find the smallest period of each substring from [0,i] in O(n)
+      **Follow up:** Find the smallest period of each substring from [0,i] in O(n) lps[i]
+- [ ] 1. Find longest palindromic substring (Manchester algorithm ), given a string, find its lexicographical substring (leetcode , two pointers i=0,j=1).
