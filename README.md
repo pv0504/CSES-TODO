@@ -27,3 +27,4 @@
 
 ## 🔄 Dynamic Programming
 - [ ] [Book Shop](https://cses.fi/problemset/task/1158)
+- [ ] [Array Description](https://cses.fi/problemset/task/1746) [always start from writing the base case in the dp, then try to formulate it.]
