@@ -28,4 +28,6 @@
 ## 🔄 Dynamic Programming
 - [ ] [Book Shop](https://cses.fi/problemset/task/1158)
 - [ ] [Array Description](https://cses.fi/problemset/task/1746) [always start from writing the base case in the dp, then try to formulate it.]
-- [ ] [Sushi](https://atcoder.jp/contests/dp/tasks/dp_l)
+- [ ] [Sushi Atcoder](https://atcoder.jp/contests/dp/tasks/dp_l)
+- [ ] [Flowers Atcoder](https://atcoder.jp/contests/dp/tasks/dp_q)
+- [ ] [Candies Atcoder](https://atcoder.jp/contests/dp/tasks/dp_m)
