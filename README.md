@@ -33,3 +33,4 @@
 - [ ] [Candies Atcoder](https://atcoder.jp/contests/dp/tasks/dp_m)
 - [ ] [Removal Game](https://cses.fi/problemset/task/1097)
 - [ ] [Mountain Range](https://cses.fi/problemset/task/3314/)
+- [ ] [Counting Numbers](https://cses.fi/problemset/task/2220) => nice way of debugging, still better solution need to be find.
