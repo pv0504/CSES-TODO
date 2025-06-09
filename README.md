@@ -34,3 +34,4 @@
 - [ ] [Removal Game](https://cses.fi/problemset/task/1097)
 - [ ] [Mountain Range](https://cses.fi/problemset/task/3314/)
 - [ ] [Counting Numbers](https://cses.fi/problemset/task/2220) => nice way of debugging, still better solution need to be find.
+- [ ] [Increasing Subsequences II](https://cses.fi/problemset/task/1748/) => nice i solved my own, but i want other method.
