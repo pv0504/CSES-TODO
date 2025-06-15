@@ -41,3 +41,4 @@
 - [ ] [Sliding Window Median](https://cses.fi/problemset/task/1076)
 - [ ] [Codeforces blog](https://codeforces.com/blog/entry/143351)
 - [ ] [Sliding Window Sum](https://cses.fi/problemset/task/3220)
+- [ ] [Mode](https://cses.fi/problemset/task/3224) ==> learnt how lower bound works.
