@@ -37,5 +37,7 @@
 - [ ] [Increasing Subsequences II](https://cses.fi/problemset/task/1748/) => nice i solved my own, but i want other method.
 
 ## 🔄 Sliding Window
+**In general Sliding window problems involves queue or deque data structure**
 - [ ] [Sliding Window Median](https://cses.fi/problemset/task/1076)
 - [ ] [Codeforces blog](https://codeforces.com/blog/entry/143351)
+- [ ] [Sliding Window Sum](https://cses.fi/problemset/task/3220)
