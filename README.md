@@ -38,3 +38,4 @@
 
 ## 🔄 Sliding Window
 - [ ] [Sliding Window Median](https://cses.fi/problemset/task/1076)
+- [ ] [Codeforces blog](https://codeforces.com/blog/entry/143351)
