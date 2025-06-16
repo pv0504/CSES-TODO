@@ -43,3 +43,6 @@
 - [ ] [Sliding Window Sum](https://cses.fi/problemset/task/3220)
 - [ ] [Mode](https://cses.fi/problemset/task/3224) ==> learnt how lower bound works.
 - [ ] [Sliding window INVERSIONS](https://cses.fi/problemset/task/3223/) Generally inversions problem can be done through fenwick tree.
+
+## 🔄 Trees
+- [ ] [Tree Distances I](https://cses.fi/problemset/task/1133) here i missed by setting maximum to -1. nice rerooting technique.
