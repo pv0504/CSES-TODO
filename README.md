@@ -45,4 +45,5 @@
 - [ ] [Sliding window INVERSIONS](https://cses.fi/problemset/task/3223/) Generally inversions problem can be done through fenwick tree.
 
 ## 🔄 Trees
-- [ ] [Tree Distances I](https://cses.fi/problemset/task/1133) here i missed by setting maximum to -1. nice rerooting technique.
+- [ ] [Tree Distances I](https://cses.fi/problemset/task/1132) here i missed by setting maximum to -1. nice rerooting technique.
+- [ ] [Tree Distances II](https://cses.fi/problemset/task/1132). this is my method of rerooting. which is simple for this you need only one distance array.
