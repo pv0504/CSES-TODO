@@ -6,7 +6,7 @@
 - [ ] [Traffic Lights](https://cses.fi/problemset/task/1163)
 - [ ] [Distinct Subsequences](https://cses.fi/problemset/task/3421)
 - [ ] [Josephus Problem I](https://cses.fi/problemset/task/2162/)
-- [ ] [Josephus Problem II](https://cses.fi/problemset/task/2163/) 🔥 **Very important**
+- [ ] [Josephus Problem II](https://cses.fi/problemset/task/2163/) 🔥 **TODO**
 - [ ] [Nested Ranges Count](https://cses.fi/problemset/task/2169)
 - [ ] [Room Allocation](https://cses.fi/problemset/task/1164)
 
@@ -51,4 +51,5 @@
 
 ## Graphs
 - [ ] [Monsters](https://cses.fi/problemset/task/1194)
-- [ ] [High Score](https://cses.fi/problemset/task/1673) 
+- [ ] [High Score](https://cses.fi/problemset/task/1673)
+- [ ] [Investigation](https://cses.fi/problemset/task/1202/)
