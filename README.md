@@ -52,4 +52,5 @@
 ## Graphs
 - [ ] [Monsters](https://cses.fi/problemset/task/1194)
 - [ ] [High Score](https://cses.fi/problemset/task/1673)
+- [ ] [Longest Flight Route](https://cses.fi/problemset/task/1680)
 - [ ] [Investigation](https://cses.fi/problemset/task/1202/)
